@@ -1,1 +1,1 @@
-﻿# Wild-Fire-Detection
+﻿# Satellite Image Classification
